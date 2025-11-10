@@ -1,4 +1,4 @@
-**THIS REPO HAS BEEN ARCHIVED - PLEASE USE sdslack/imputation OR rkjcollab/imputation REPOS ISNTEAD.**
+**THIS REPO HAS BEEN ARCHIVED - PLEASE USE sdslack/imputation OR rkjcollab/imputation REPOS INSTEAD.**
 
 Pipeline for imputing autosomal GWAS array data with hg19 coordinates to the
 TOPMed reference panel (which requires liftover to hg38 coordinates) on the
